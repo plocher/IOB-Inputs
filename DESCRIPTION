@@ -1,0 +1,7 @@
+IOB interface ptovides 1x IO4 port with 4x Input i/o lines.
+
+  * A 1k series resistor protects the processing electronics from shorts to Vcc or GND
+
+
+
+
