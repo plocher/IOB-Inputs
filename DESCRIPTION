@@ -1,6 +1,8 @@
 IOB interface provides 1x IO4 port with 4x Input i/o lines.
 
   * A 1k series resistor protects the processing electronics from shorts to Vcc or GND
+  * Schottkey diodes and a 1kHZ low pass filter protect the inputs from noise/transients/+12v
+
 
 
 
