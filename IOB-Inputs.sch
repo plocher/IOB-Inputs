@@ -8,24 +8,24 @@
 </settings>
 <grid distance="100" unitdist="mil" unit="mil" style="dots" multiple="1" display="yes" altdistance="50" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="2" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="23" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="29" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="19" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="17" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="30" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="63" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="34" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="56" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="2" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="23" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="29" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="35" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="17" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="30" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="63" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="34" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="56" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -34,8 +34,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="3" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -43,19 +43,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="16" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="35" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="35" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="21" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="47" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="48" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="24" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="35" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="21" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="57" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="48" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="24" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -199,7 +199,7 @@
 <wire x1="50.038" y1="1.27" x2="51.943" y2="1.27" width="2.1844" layer="22"/>
 <text x="38.227" y="18.288" size="1.27" layer="22" font="vector" rot="MR0">IOB to IO4 Interface</text>
 <text x="39.751" y="0.508" size="1.016" layer="22" font="vector" rot="MR0">Made in the PCR, Coast Div, NMRA</text>
-<text x="39.37" y="16.129" size="1.016" layer="22" font="vector" rot="MR0">Model Railroading is   Fun!</text>
+<text x="39.37" y="16.129" size="1.016" layer="22" font="vector" rot="MR0">Model Railroading is Fun!</text>
 <wire x1="43.053" y1="19.05" x2="43.053" y2="1.27" width="1.27" layer="22"/>
 </package>
 <package name="FIDUCIAL_1MM">
@@ -801,36 +801,6 @@ chip</description>
 <rectangle x1="-1.1557" y1="-0.4699" x2="-0.6556" y2="0.4801" layer="49"/>
 <rectangle x1="0.67945" y1="-0.4699" x2="1.17955" y2="0.4801" layer="49"/>
 </package>
-<package name="IOB-IO4-CLEAN">
-<wire x1="0" y1="0" x2="53.34" y2="0" width="0.127" layer="48" style="shortdash"/>
-<wire x1="53.34" y1="0" x2="53.34" y2="20.32" width="0.127" layer="48" style="shortdash"/>
-<wire x1="53.34" y1="20.32" x2="0" y2="20.32" width="0.127" layer="48" style="shortdash"/>
-<wire x1="0" y1="20.32" x2="0" y2="16.637" width="0.127" layer="48" style="shortdash"/>
-<pad name="V5" x="12.319" y="18.288" drill="0.9" shape="square"/>
-<pad name="VOUT" x="9.779" y="18.034" drill="0.9"/>
-<pad name="V+" x="7.239" y="18.288" drill="0.9"/>
-<pad name="P1" x="44.958" y="12.446" drill="0.9"/>
-<pad name="P2" x="45.212" y="9.906" drill="0.9"/>
-<pad name="P3" x="44.958" y="7.366" drill="0.9"/>
-<pad name="P4" x="45.212" y="4.826" drill="0.9"/>
-<pad name="V5@1" x="45.212" y="14.986" drill="0.9" shape="square"/>
-<pad name="G@3" x="44.958" y="2.286" drill="0.9"/>
-<circle x="15.875" y="1.397" radius="0.127" width="0.0254" layer="48"/>
-<circle x="51.435" y="18.415" radius="0.127" width="0.0254" layer="48"/>
-<wire x1="0" y1="16.637" x2="0" y2="1.143" width="0.127" layer="48" style="shortdash"/>
-<wire x1="0" y1="1.143" x2="0" y2="0" width="0.127" layer="48" style="shortdash"/>
-<wire x1="0" y1="16.637" x2="12.954" y2="16.637" width="0.0254" layer="48"/>
-<wire x1="12.954" y1="16.637" x2="12.954" y2="1.143" width="0.0254" layer="48"/>
-<wire x1="12.954" y1="1.143" x2="0" y2="1.143" width="0.0254" layer="48"/>
-<text x="17.653" y="19.177" size="1.6764" layer="21" font="vector" rot="R180">5v</text>
-<text x="5.207" y="19.177" size="1.6764" layer="21" font="vector" rot="R180">VIN</text>
-<text x="42.799" y="12.065" size="1.27" layer="21" font="vector" rot="R90">1</text>
-<text x="42.799" y="9.525" size="1.27" layer="21" font="vector" rot="R90">2</text>
-<text x="42.799" y="6.985" size="1.27" layer="21" font="vector" rot="R90">3</text>
-<text x="42.799" y="4.445" size="1.27" layer="21" font="vector" rot="R90">4</text>
-<text x="42.799" y="14.605" size="1.27" layer="21" font="vector" rot="R90">5v</text>
-<text x="44.196" y="2.794" size="1.27" layer="21" font="vector" rot="R180">Gnd</text>
-</package>
 <package name="RJ25-PANEL">
 <description>Modular Jackwith Panel Stops</description>
 <wire x1="6.562" y1="11.044" x2="6.562" y2="-6.9215" width="0.2032" layer="21"/>
@@ -923,6 +893,36 @@ chip</description>
 <wire x1="-1.5" y1="-0.25" x2="-1.5" y2="0.25" width="0.0508" layer="51"/>
 <wire x1="-1.5" y1="0.25" x2="-0.75" y2="0.25" width="0.0508" layer="51"/>
 <wire x1="-0.65" y1="-0.5" x2="-0.65" y2="0.5" width="0.1524" layer="51"/>
+</package>
+<package name="IOB-IO4-NOBOTSILK">
+<wire x1="0" y1="0" x2="53.34" y2="0" width="0.127" layer="48" style="shortdash"/>
+<wire x1="53.34" y1="0" x2="53.34" y2="20.32" width="0.127" layer="48" style="shortdash"/>
+<wire x1="53.34" y1="20.32" x2="0" y2="20.32" width="0.127" layer="48" style="shortdash"/>
+<wire x1="0" y1="20.32" x2="0" y2="16.637" width="0.127" layer="48" style="shortdash"/>
+<pad name="V5" x="12.319" y="18.288" drill="0.9" shape="square"/>
+<pad name="VOUT" x="9.779" y="18.034" drill="0.9"/>
+<pad name="V+" x="7.239" y="18.288" drill="0.9"/>
+<pad name="P1" x="44.958" y="12.446" drill="0.9"/>
+<pad name="P2" x="45.212" y="9.906" drill="0.9"/>
+<pad name="P3" x="44.958" y="7.366" drill="0.9"/>
+<pad name="P4" x="45.212" y="4.826" drill="0.9"/>
+<pad name="V5@1" x="45.212" y="14.986" drill="0.9" shape="square"/>
+<pad name="G@3" x="44.958" y="2.286" drill="0.9"/>
+<circle x="15.875" y="1.397" radius="0.127" width="0.0254" layer="48"/>
+<circle x="51.435" y="18.415" radius="0.127" width="0.0254" layer="48"/>
+<wire x1="0" y1="16.637" x2="0" y2="1.143" width="0.127" layer="48" style="shortdash"/>
+<wire x1="0" y1="1.143" x2="0" y2="0" width="0.127" layer="48" style="shortdash"/>
+<wire x1="0" y1="16.637" x2="12.954" y2="16.637" width="0.0254" layer="48"/>
+<wire x1="12.954" y1="16.637" x2="12.954" y2="1.143" width="0.0254" layer="48"/>
+<wire x1="12.954" y1="1.143" x2="0" y2="1.143" width="0.0254" layer="48"/>
+<text x="17.653" y="19.177" size="1.6764" layer="21" font="vector" rot="R180">5v</text>
+<text x="5.207" y="19.177" size="1.6764" layer="21" font="vector" rot="R180">VIN</text>
+<text x="42.799" y="12.065" size="1.27" layer="21" font="vector" rot="R90">1</text>
+<text x="42.799" y="9.525" size="1.27" layer="21" font="vector" rot="R90">2</text>
+<text x="42.799" y="6.985" size="1.27" layer="21" font="vector" rot="R90">3</text>
+<text x="42.799" y="4.445" size="1.27" layer="21" font="vector" rot="R90">4</text>
+<text x="42.799" y="14.605" size="1.27" layer="21" font="vector" rot="R90">5v</text>
+<text x="44.196" y="2.794" size="1.27" layer="21" font="vector" rot="R180">Gnd</text>
 </package>
 </packages>
 <symbols>
@@ -1128,7 +1128,7 @@ chip</description>
 <gate name="IOB" symbol="IO4-IOB" x="0" y="0"/>
 </gates>
 <devices>
-<device name="BARE" package="IO4-IOB">
+<device name="FULL" package="IO4-IOB">
 <connects>
 <connect gate="IOB" pin="5V" pad="V5 V5@1"/>
 <connect gate="IOB" pin="GND" pad="G@3"/>
@@ -1143,7 +1143,7 @@ chip</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="CLEAN" package="IOB-IO4-CLEAN">
+<device name="NOBSILK" package="IOB-IO4-NOBOTSILK">
 <connects>
 <connect gate="IOB" pin="5V" pad="V5 V5@1"/>
 <connect gate="IOB" pin="GND" pad="G@3"/>
@@ -1514,28 +1514,28 @@ Basic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (sma
 <part name="FRAME1" library="SPCoast" deviceset="DOC-FRAME-LETTER" device=""/>
 <part name="J1" library="SPCoast" deviceset="CONNECTOR-IO4" device="IPINS" value="RJ12/6"/>
 <part name="V14" library="supply2" deviceset="GND" device=""/>
-<part name="R8" library="SPCoast" deviceset="R*" device="0805-RES" value="1K0"/>
-<part name="R7" library="SPCoast" deviceset="R*" device="0805-RES" value="1K0"/>
-<part name="R6" library="SPCoast" deviceset="R*" device="0805-RES" value="1K0"/>
-<part name="R5" library="SPCoast" deviceset="R*" device="0805-RES" value="1K0"/>
-<part name="IOB" library="SPCoast" deviceset="CONNECTOR-IO4-IOB" device="BARE"/>
+<part name="R5" library="SPCoast" deviceset="R*" device="0603-RES" value="1K0"/>
+<part name="R6" library="SPCoast" deviceset="R*" device="0603-RES" value="1K0"/>
+<part name="R7" library="SPCoast" deviceset="R*" device="0603-RES" value="1K0"/>
+<part name="R8" library="SPCoast" deviceset="R*" device="0603-RES" value="1K0"/>
+<part name="IOB" library="SPCoast" deviceset="CONNECTOR-IO4-IOB" device="FULL"/>
 <part name="VCC3" library="SPCoast" deviceset="VCCIO" device=""/>
 <part name="P+7" library="supply1" deviceset="VCC" device=""/>
 <part name="V6" library="supply2" deviceset="GND" device=""/>
 <part name="FID2" library="SPCoast" deviceset="FIDUCIAL" device=""/>
 <part name="FID1" library="SPCoast" deviceset="FIDUCIAL" device=""/>
-<part name="D4" library="SPCoast" deviceset="DIODE-BAT54S" device="323R"/>
-<part name="D3" library="SPCoast" deviceset="DIODE-BAT54S" device="323R"/>
-<part name="D2" library="SPCoast" deviceset="DIODE-BAT54S" device="323R"/>
-<part name="D1" library="SPCoast" deviceset="DIODE-BAT54S" device="323R"/>
-<part name="R9" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
-<part name="R10" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
-<part name="R11" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
-<part name="R12" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
-<part name="C1" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
-<part name="C2" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
-<part name="C3" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
+<part name="D1" library="SPCoast" deviceset="DIODE-BAT54S" device="23" value="BAT54S"/>
+<part name="D2" library="SPCoast" deviceset="DIODE-BAT54S" device="23" value="BAT54S"/>
+<part name="D3" library="SPCoast" deviceset="DIODE-BAT54S" device="23" value="BAT54S"/>
+<part name="D4" library="SPCoast" deviceset="DIODE-BAT54S" device="23" value="BAT54S"/>
+<part name="R4" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
+<part name="R3" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
+<part name="R2" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
+<part name="R1" library="SPCoast" deviceset="R*" device="0805-RES" value="82R"/>
 <part name="C4" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
+<part name="C3" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
+<part name="C2" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
+<part name="C1" library="SPCoast" deviceset="CAP*" device="0603" value="0.01uF"/>
 <part name="V1" library="supply2" deviceset="GND" device=""/>
 <part name="V7" library="supply2" deviceset="GND" device=""/>
 <part name="V8" library="supply2" deviceset="GND" device=""/>
@@ -1561,19 +1561,19 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <instance part="FRAME1" gate="FRAME_CONTENT" x="147.32" y="0"/>
 <instance part="J1" gate="J" x="20.32" y="96.52" rot="MR0"/>
 <instance part="V14" gate="GND" x="22.86" y="81.28"/>
-<instance part="R8" gate="R" x="88.9" y="33.02" smashed="yes" rot="R180">
+<instance part="R5" gate="R" x="88.9" y="33.02" smashed="yes" rot="R180">
 <attribute name="NAME" x="92.71" y="31.5214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="92.71" y="36.322" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R7" gate="R" x="104.14" y="71.12" smashed="yes" rot="R180">
+<instance part="R6" gate="R" x="104.14" y="71.12" smashed="yes" rot="R180">
 <attribute name="NAME" x="107.95" y="69.6214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="107.95" y="74.422" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R6" gate="R" x="88.9" y="111.76" smashed="yes" rot="R180">
+<instance part="R7" gate="R" x="88.9" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="92.71" y="110.2614" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="92.71" y="115.062" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R5" gate="R" x="104.14" y="147.32" smashed="yes" rot="R180">
+<instance part="R8" gate="R" x="104.14" y="147.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="107.95" y="145.8214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="107.95" y="150.622" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -1585,30 +1585,30 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <instance part="V6" gate="GND" x="187.96" y="86.36"/>
 <instance part="FID2" gate="FID1" x="243.84" y="40.64"/>
 <instance part="FID1" gate="FID1" x="243.84" y="48.26"/>
-<instance part="D4" gate="G$1" x="73.66" y="33.02" rot="R90"/>
-<instance part="D3" gate="G$1" x="88.9" y="71.12" rot="R90"/>
-<instance part="D2" gate="G$1" x="73.66" y="111.76" rot="R90"/>
-<instance part="D1" gate="G$1" x="88.9" y="147.32" smashed="yes" rot="R90"/>
-<instance part="R9" gate="R" x="78.74" y="147.32" smashed="yes" rot="R180">
+<instance part="D1" gate="G$1" x="73.66" y="33.02" rot="R90"/>
+<instance part="D2" gate="G$1" x="88.9" y="71.12" rot="R90"/>
+<instance part="D3" gate="G$1" x="73.66" y="111.76" rot="R90"/>
+<instance part="D4" gate="G$1" x="88.9" y="147.32" smashed="yes" rot="R90"/>
+<instance part="R4" gate="R" x="78.74" y="147.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="82.55" y="145.8214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="82.55" y="150.622" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R10" gate="R" x="63.5" y="111.76" smashed="yes" rot="R180">
+<instance part="R3" gate="R" x="63.5" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="67.31" y="110.2614" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="67.31" y="115.062" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R11" gate="R" x="78.74" y="71.12" smashed="yes" rot="R180">
+<instance part="R2" gate="R" x="78.74" y="71.12" smashed="yes" rot="R180">
 <attribute name="NAME" x="82.55" y="69.6214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="82.55" y="74.422" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R12" gate="R" x="63.5" y="33.02" smashed="yes" rot="R180">
+<instance part="R1" gate="R" x="63.5" y="33.02" smashed="yes" rot="R180">
 <attribute name="NAME" x="67.31" y="31.5214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="67.31" y="36.322" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C1" gate="C1" x="93.98" y="142.24"/>
-<instance part="C2" gate="C1" x="78.74" y="106.68"/>
-<instance part="C3" gate="C1" x="93.98" y="66.04"/>
-<instance part="C4" gate="C1" x="78.74" y="27.94"/>
+<instance part="C4" gate="C1" x="93.98" y="142.24"/>
+<instance part="C3" gate="C1" x="78.74" y="106.68"/>
+<instance part="C2" gate="C1" x="93.98" y="66.04"/>
+<instance part="C1" gate="C1" x="78.74" y="27.94"/>
 <instance part="V1" gate="GND" x="93.98" y="134.62"/>
 <instance part="V7" gate="GND" x="78.74" y="99.06"/>
 <instance part="V8" gate="GND" x="93.98" y="58.42"/>
@@ -1641,32 +1641,32 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <wire x1="187.96" y1="88.9" x2="187.96" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="A1"/>
+<pinref part="D4" gate="G$1" pin="A1"/>
 <wire x1="88.9" y1="142.24" x2="88.9" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="C1" gate="C1" pin="2"/>
+<pinref part="C4" gate="C1" pin="2"/>
 <wire x1="88.9" y1="137.16" x2="93.98" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="V1" gate="GND" pin="GND"/>
 <junction x="93.98" y="137.16"/>
 </segment>
 <segment>
-<pinref part="D2" gate="G$1" pin="A1"/>
-<pinref part="C2" gate="C1" pin="2"/>
+<pinref part="D3" gate="G$1" pin="A1"/>
+<pinref part="C3" gate="C1" pin="2"/>
 <wire x1="73.66" y1="106.68" x2="73.66" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="101.6" x2="78.74" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="V7" gate="GND" pin="GND"/>
 <junction x="78.74" y="101.6"/>
 </segment>
 <segment>
-<pinref part="D3" gate="G$1" pin="A1"/>
-<pinref part="C3" gate="C1" pin="2"/>
+<pinref part="D2" gate="G$1" pin="A1"/>
+<pinref part="C2" gate="C1" pin="2"/>
 <wire x1="88.9" y1="66.04" x2="88.9" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="60.96" x2="93.98" y2="60.96" width="0.1524" layer="91"/>
 <pinref part="V8" gate="GND" pin="GND"/>
 <junction x="93.98" y="60.96"/>
 </segment>
 <segment>
-<pinref part="D4" gate="G$1" pin="A1"/>
-<pinref part="C4" gate="C1" pin="2"/>
+<pinref part="D1" gate="G$1" pin="A1"/>
+<pinref part="C1" gate="C1" pin="2"/>
 <wire x1="73.66" y1="27.94" x2="73.66" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="22.86" x2="78.74" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="V9" gate="GND" pin="GND"/>
@@ -1681,28 +1681,28 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <wire x1="177.8" y1="96.52" x2="177.8" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="C2"/>
+<pinref part="D4" gate="G$1" pin="C2"/>
 <pinref part="P+2" gate="VCC" pin="VCC"/>
 <wire x1="88.9" y1="154.94" x2="88.9" y2="152.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D2" gate="G$1" pin="C2"/>
+<pinref part="D3" gate="G$1" pin="C2"/>
 <pinref part="P+8" gate="VCC" pin="VCC"/>
 <wire x1="73.66" y1="119.38" x2="73.66" y2="116.84" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D3" gate="G$1" pin="C2"/>
+<pinref part="D2" gate="G$1" pin="C2"/>
 <pinref part="P+9" gate="VCC" pin="VCC"/>
 </segment>
 <segment>
-<pinref part="D4" gate="G$1" pin="C2"/>
+<pinref part="D1" gate="G$1" pin="C2"/>
 <pinref part="P+10" gate="VCC" pin="VCC"/>
 </segment>
 </net>
 <net name="P1" class="2">
 <segment>
 <label x="127" y="147.32" size="1.016" layer="95" xref="yes"/>
-<pinref part="R5" gate="R" pin="1"/>
+<pinref part="R8" gate="R" pin="1"/>
 <wire x1="109.22" y1="147.32" x2="127" y2="147.32" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -1713,7 +1713,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 </net>
 <net name="P2" class="2">
 <segment>
-<pinref part="R6" gate="R" pin="1"/>
+<pinref part="R7" gate="R" pin="1"/>
 <wire x1="93.98" y1="111.76" x2="127" y2="111.76" width="0.1524" layer="91"/>
 <label x="127" y="111.76" size="1.016" layer="95" xref="yes"/>
 </segment>
@@ -1726,7 +1726,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <net name="P3" class="2">
 <segment>
 <label x="127" y="71.12" size="1.016" layer="95" xref="yes"/>
-<pinref part="R7" gate="R" pin="1"/>
+<pinref part="R6" gate="R" pin="1"/>
 <wire x1="109.22" y1="71.12" x2="127" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -1739,7 +1739,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <segment>
 <wire x1="127" y1="33.02" x2="93.98" y2="33.02" width="0.1524" layer="91"/>
 <label x="127" y="33.02" size="1.016" layer="95" xref="yes"/>
-<pinref part="R8" gate="R" pin="1"/>
+<pinref part="R5" gate="R" pin="1"/>
 </segment>
 <segment>
 <pinref part="IOB" gate="IOB" pin="P4"/>
@@ -1761,7 +1761,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <wire x1="22.86" y1="99.06" x2="35.56" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R9" gate="R" pin="2"/>
+<pinref part="R4" gate="R" pin="2"/>
 <wire x1="73.66" y1="147.32" x2="53.34" y2="147.32" width="0.1524" layer="91"/>
 <label x="53.34" y="147.32" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -1773,7 +1773,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <wire x1="22.86" y1="96.52" x2="35.56" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R10" gate="R" pin="2"/>
+<pinref part="R3" gate="R" pin="2"/>
 <wire x1="58.42" y1="111.76" x2="53.34" y2="111.76" width="0.1524" layer="91"/>
 <label x="53.34" y="111.76" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -1785,7 +1785,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <wire x1="22.86" y1="93.98" x2="35.56" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R11" gate="R" pin="2"/>
+<pinref part="R2" gate="R" pin="2"/>
 <wire x1="73.66" y1="71.12" x2="53.34" y2="71.12" width="0.1524" layer="91"/>
 <label x="53.34" y="71.12" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -1797,7 +1797,7 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 <wire x1="22.86" y1="91.44" x2="35.56" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R12" gate="R" pin="2"/>
+<pinref part="R1" gate="R" pin="2"/>
 <wire x1="58.42" y1="33.02" x2="53.34" y2="33.02" width="0.1524" layer="91"/>
 <label x="53.34" y="33.02" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -1816,13 +1816,13 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="R12" gate="R" pin="1"/>
-<pinref part="D4" gate="G$1" pin="COM"/>
+<pinref part="R1" gate="R" pin="1"/>
+<pinref part="D1" gate="G$1" pin="COM"/>
 <wire x1="68.58" y1="33.02" x2="71.12" y2="33.02" width="0.1524" layer="91"/>
-<pinref part="R8" gate="R" pin="2"/>
+<pinref part="R5" gate="R" pin="2"/>
 <wire x1="71.12" y1="33.02" x2="78.74" y2="33.02" width="0.1524" layer="91"/>
 <junction x="71.12" y="33.02"/>
-<pinref part="C4" gate="C1" pin="1"/>
+<pinref part="C1" gate="C1" pin="1"/>
 <wire x1="78.74" y1="33.02" x2="83.82" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="30.48" x2="78.74" y2="33.02" width="0.1524" layer="91"/>
 <junction x="78.74" y="33.02"/>
@@ -1830,13 +1830,13 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 </net>
 <net name="N$12" class="0">
 <segment>
-<pinref part="R11" gate="R" pin="1"/>
-<pinref part="D3" gate="G$1" pin="COM"/>
+<pinref part="R2" gate="R" pin="1"/>
+<pinref part="D2" gate="G$1" pin="COM"/>
 <wire x1="83.82" y1="71.12" x2="86.36" y2="71.12" width="0.1524" layer="91"/>
-<pinref part="R7" gate="R" pin="2"/>
+<pinref part="R6" gate="R" pin="2"/>
 <wire x1="86.36" y1="71.12" x2="93.98" y2="71.12" width="0.1524" layer="91"/>
 <junction x="86.36" y="71.12"/>
-<pinref part="C3" gate="C1" pin="1"/>
+<pinref part="C2" gate="C1" pin="1"/>
 <wire x1="93.98" y1="71.12" x2="99.06" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="68.58" x2="93.98" y2="71.12" width="0.1524" layer="91"/>
 <junction x="93.98" y="71.12"/>
@@ -1844,13 +1844,13 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 </net>
 <net name="N$13" class="0">
 <segment>
-<pinref part="R10" gate="R" pin="1"/>
-<pinref part="D2" gate="G$1" pin="COM"/>
+<pinref part="R3" gate="R" pin="1"/>
+<pinref part="D3" gate="G$1" pin="COM"/>
 <wire x1="68.58" y1="111.76" x2="71.12" y2="111.76" width="0.1524" layer="91"/>
-<pinref part="R6" gate="R" pin="2"/>
+<pinref part="R7" gate="R" pin="2"/>
 <wire x1="71.12" y1="111.76" x2="78.74" y2="111.76" width="0.1524" layer="91"/>
 <junction x="71.12" y="111.76"/>
-<pinref part="C2" gate="C1" pin="1"/>
+<pinref part="C3" gate="C1" pin="1"/>
 <wire x1="78.74" y1="111.76" x2="83.82" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="109.22" x2="78.74" y2="111.76" width="0.1524" layer="91"/>
 <junction x="78.74" y="111.76"/>
@@ -1858,13 +1858,13 @@ Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="R9" gate="R" pin="1"/>
-<pinref part="D1" gate="G$1" pin="COM"/>
+<pinref part="R4" gate="R" pin="1"/>
+<pinref part="D4" gate="G$1" pin="COM"/>
 <wire x1="83.82" y1="147.32" x2="86.36" y2="147.32" width="0.1524" layer="91"/>
-<pinref part="R5" gate="R" pin="2"/>
+<pinref part="R8" gate="R" pin="2"/>
 <wire x1="86.36" y1="147.32" x2="93.98" y2="147.32" width="0.1524" layer="91"/>
 <junction x="86.36" y="147.32"/>
-<pinref part="C1" gate="C1" pin="1"/>
+<pinref part="C4" gate="C1" pin="1"/>
 <wire x1="93.98" y1="147.32" x2="99.06" y2="147.32" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="144.78" x2="93.98" y2="147.32" width="0.1524" layer="91"/>
 <junction x="93.98" y="147.32"/>
