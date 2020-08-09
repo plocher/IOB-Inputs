@@ -1549,7 +1549,7 @@ Basic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (sma
 <sheet>
 <plain>
 <text x="149.86" y="20.32" size="3.81" layer="91">IOB Quad input</text>
-<text x="238.76" y="12.7" size="3.81" layer="91">2.0</text>
+<text x="238.76" y="12.7" size="3.81" layer="91">2.1</text>
 <text x="241.046" y="5.588" size="3.81" layer="91">A</text>
 <text x="147.32" y="175.26" size="1.6764" layer="91">RC Filter: Input maxF of 1KHZ = 10uS
 Protection for Schottkey: 12v / 82ohm = 146mA, BAT54S maxI = 200mA</text>

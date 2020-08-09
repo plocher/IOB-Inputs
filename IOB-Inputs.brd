@@ -75,7 +75,7 @@
 <wire x1="0" y1="20.32" x2="0" y2="0" width="0.254" layer="46"/>
 <wire x1="0" y1="0" x2="53.34" y2="0" width="0.254" layer="46"/>
 <text x="2.286" y="5.461" size="1.27" layer="21" rot="R90">IO4-IOB</text>
-<text x="18.415" y="0.889" size="1.27" layer="21" rot="R90">2.0</text>
+<text x="18.415" y="0.889" size="1.27" layer="21" rot="R90">2.1</text>
 <text x="50.927" y="6.477" size="1.27" layer="21" rot="R90">Inputs</text>
 <text x="13.843" y="16.764" size="1.27" layer="22" rot="MR270">John Plocher</text>
 <text x="17.78" y="6.604" size="1.778" layer="22" rot="MR180">Quad Inputs</text>
