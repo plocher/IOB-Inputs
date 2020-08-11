@@ -22,9 +22,9 @@
 <layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -44,7 +44,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
@@ -67,10 +67,10 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="99" name="Anatomie" color="7" fill="1" visible="no" active="no"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<layer number="101" name="Hidden" color="57" fill="4" visible="no" active="yes"/>
-<layer number="102" name="Changes" color="13" fill="1" visible="no" active="yes"/>
+<layer number="101" name="Hidden" color="57" fill="4" visible="yes" active="yes"/>
+<layer number="102" name="Changes" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="103" name="tMap" color="29" fill="4" visible="no" active="yes"/>
-<layer number="104" name="Name" color="16" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="16" fill="1" visible="yes" active="yes"/>
 <layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
 <layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
 <layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
@@ -162,7 +162,7 @@
 <text x="76.327" y="15.367" size="1.27" layer="21" rot="R90">Inputs</text>
 <text x="39.243" y="25.654" size="1.27" layer="22" rot="MR270">John Plocher</text>
 <text x="43.18" y="15.494" size="1.778" layer="22" rot="MR180">Quad Inputs</text>
-<text x="22.86" y="11.43" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Soldermask
+<text x="22.86" y="11.43" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Soldermask
 White Silkscreen</text>
 <text x="74.422" y="11.938" size="1.27" layer="21" rot="R90">1KHz Low Pass</text>
 <text x="29.845" y="14.224" size="1.27" layer="21" rot="R90">2020-08</text>
@@ -182,13 +182,13 @@ White Silkscreen</text>
 <text x="47.244" y="19.6215" size="0.8128" layer="125" font="vector" rot="R180">R10</text>
 <text x="47.244" y="16.4465" size="0.8128" layer="125" font="vector" rot="R180">R11</text>
 <text x="47.244" y="12.8905" size="0.8128" layer="125" font="vector" rot="R180">R12</text>
-<text x="81.28" y="12.7" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Headers</text>
+<text x="81.28" y="12.7" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Headers</text>
 <text x="27.686" y="34.671" size="1.27" layer="21" rot="R90">IO4-IOB</text>
 <text x="77.47" y="30.099" size="1.27" layer="21" rot="R90">2.1</text>
 <text x="76.327" y="35.687" size="1.27" layer="21" rot="R90">Inputs</text>
 <text x="39.243" y="45.974" size="1.27" layer="22" rot="MR270">John Plocher</text>
 <text x="43.18" y="35.814" size="1.778" layer="22" rot="MR180">Quad Inputs</text>
-<text x="22.86" y="31.75" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Soldermask
+<text x="22.86" y="31.75" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Soldermask
 White Silkscreen</text>
 <text x="74.422" y="32.258" size="1.27" layer="21" rot="R90">1KHz Low Pass</text>
 <text x="29.845" y="34.544" size="1.27" layer="21" rot="R90">2020-08</text>
@@ -208,13 +208,13 @@ White Silkscreen</text>
 <text x="47.244" y="39.9415" size="0.8128" layer="125" font="vector" rot="R180">R10</text>
 <text x="47.244" y="36.7665" size="0.8128" layer="125" font="vector" rot="R180">R11</text>
 <text x="47.244" y="33.2105" size="0.8128" layer="125" font="vector" rot="R180">R12</text>
-<text x="81.28" y="33.02" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Headers</text>
+<text x="81.28" y="33.02" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Headers</text>
 <text x="27.686" y="54.991" size="1.27" layer="21" rot="R90">IO4-IOB</text>
 <text x="77.47" y="50.419" size="1.27" layer="21" rot="R90">2.1</text>
 <text x="76.327" y="56.007" size="1.27" layer="21" rot="R90">Inputs</text>
 <text x="39.243" y="66.294" size="1.27" layer="22" rot="MR270">John Plocher</text>
 <text x="43.18" y="56.134" size="1.778" layer="22" rot="MR180">Quad Inputs</text>
-<text x="22.86" y="52.07" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Soldermask
+<text x="22.86" y="52.07" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Soldermask
 White Silkscreen</text>
 <text x="74.422" y="52.578" size="1.27" layer="21" rot="R90">1KHz Low Pass</text>
 <text x="29.845" y="54.864" size="1.27" layer="21" rot="R90">2020-08</text>
@@ -234,13 +234,13 @@ White Silkscreen</text>
 <text x="47.244" y="60.2615" size="0.8128" layer="125" font="vector" rot="R180">R10</text>
 <text x="47.244" y="57.0865" size="0.8128" layer="125" font="vector" rot="R180">R11</text>
 <text x="47.244" y="53.5305" size="0.8128" layer="125" font="vector" rot="R180">R12</text>
-<text x="81.28" y="53.34" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Headers</text>
+<text x="81.28" y="53.34" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Headers</text>
 <text x="27.686" y="75.311" size="1.27" layer="21" rot="R90">IO4-IOB</text>
 <text x="77.47" y="70.739" size="1.27" layer="21" rot="R90">2.1</text>
 <text x="76.327" y="76.327" size="1.27" layer="21" rot="R90">Inputs</text>
 <text x="39.243" y="86.614" size="1.27" layer="22" rot="MR270">John Plocher</text>
 <text x="43.18" y="76.454" size="1.778" layer="22" rot="MR180">Quad Inputs</text>
-<text x="22.86" y="72.39" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Soldermask
+<text x="22.86" y="72.39" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Soldermask
 White Silkscreen</text>
 <text x="74.422" y="72.898" size="1.27" layer="21" rot="R90">1KHz Low Pass</text>
 <text x="29.845" y="75.184" size="1.27" layer="21" rot="R90">2020-08</text>
@@ -260,7 +260,7 @@ White Silkscreen</text>
 <text x="47.244" y="80.5815" size="0.8128" layer="125" font="vector" rot="R180">R10</text>
 <text x="47.244" y="77.4065" size="0.8128" layer="125" font="vector" rot="R180">R11</text>
 <text x="47.244" y="73.8505" size="0.8128" layer="125" font="vector" rot="R180">R12</text>
-<text x="81.28" y="73.66" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Headers</text>
+<text x="81.28" y="73.66" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Headers</text>
 <text x="51.689" y="94.615" size="1.27" layer="21">2.1</text>
 <text x="58.674" y="94.615" size="1.27" layer="21">2020-08</text>
 </plain>

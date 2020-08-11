@@ -79,7 +79,7 @@
 <text x="50.927" y="6.477" size="1.27" layer="21" rot="R90">Inputs</text>
 <text x="13.843" y="16.764" size="1.27" layer="22" rot="MR270">John Plocher</text>
 <text x="17.78" y="6.604" size="1.778" layer="22" rot="MR180">Quad Inputs</text>
-<text x="-2.54" y="2.54" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Soldermask
+<text x="-2.54" y="2.54" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Soldermask
 White Silkscreen</text>
 <text x="49.022" y="3.048" size="1.27" layer="21" rot="R90">1KHz Low Pass</text>
 <text x="4.445" y="5.334" size="1.27" layer="21" rot="R90">2020-08</text>
@@ -99,7 +99,7 @@ White Silkscreen</text>
 <text x="21.844" y="10.7315" size="0.8128" layer="125" font="vector" rot="R180">R10</text>
 <text x="21.844" y="7.5565" size="0.8128" layer="125" font="vector" rot="R180">R11</text>
 <text x="21.844" y="4.0005" size="0.8128" layer="125" font="vector" rot="R180">R12</text>
-<text x="55.88" y="3.81" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Red Headers</text>
+<text x="55.88" y="3.81" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Red Headers</text>
 </plain>
 <libraries>
 <library name="SPCoast">
